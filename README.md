@@ -32,7 +32,7 @@
 - `pip3 install wikipedia
 - `pip3 install youtube_dl
 - `pip3 install tweepy
-- `git clone https://github.com/dhenza1415/PROTECT
+- `git clone https://github.com/virojano19/PROTECT
 - `cd PROTECT
 - `python3 prosk.py
 
