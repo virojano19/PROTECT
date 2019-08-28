@@ -15,25 +15,25 @@
 - `dz = LINE("mail",password")`
 
 ## Installan
-pkg update
-pkg install git
-pkg install python3-pip
-pip3 install rsa
-pip3 install thrift==0.11.0
-pip3 install requests
-pip3 install bs4
-pip3 install gtts
-pip3 install beautifulsoup
-pip3 install googletrans
-pip3 install pafy
-pip3 install humanfriendly
-pip3 install goslate
-pip3 install wikipedia
-pip3 install youtube_dl
-pip3 install tweepy
-git clone https://github.com/virojano19/PROTECT
-cd PROTECT
-python3 prosk.py
+pkg update<br> 
+pkg install git<br> 
+pkg install python3-pip<br> 
+pip3 install rsa<br> 
+pip3 install thrift==0.11.0<br> 
+pip3 install requests<br> 
+pip3 install bs4<br> 
+pip3 install gtts<br> 
+pip3 install beautifulsoup<br> 
+pip3 install googletrans<br> 
+pip3 install pafy<br> 
+pip3 install humanfriendly<br> 
+pip3 install goslate<br> 
+pip3 install wikipedia<br> 
+pip3 install youtube_dl<br> 
+pip3 install tweepy<br> 
+git clone https://github.com/virojano19/PROTECT<br> 
+cd PROTECT<br> 
+python3 prosk.py<br> 
 
 ## Fungsi login sb protect
 
